@@ -22,12 +22,29 @@ Platform assembly: C:\Users\SoCS\Desktop\HCVS_Release\HeritageCraftVirtualSimula
 Loading C:\Users\SoCS\Desktop\HCVS_Release\HeritageCraftVirtualSimulator_Data\Managed\OpenNI.Net.dll into Unity Child Domain
 Platform assembly: C:\Users\SoCS\Desktop\HCVS_Release\HeritageCraftVirtualSimulator_Data\Managed\ZDK.dll (this message is harmless)
 Loading C:\Users\SoCS\Desktop\HCVS_Release\HeritageCraftVirtualSimulator_Data\Managed\ZDK.dll into Unity Child Domain
-- Completed reload, in  0.362 seconds
+- Completed reload, in  0.420 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 Platform assembly: C:\Users\SoCS\Desktop\HCVS_Release\HeritageCraftVirtualSimulator_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\SoCS\Desktop\HCVS_Release\HeritageCraftVirtualSimulator_Data\Managed\System.dll (this message is harmless)
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+ThalmicHub failed to initialize.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.809738 ms
 Trying to open Kinect sensor using MS Kinect SDK
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -44,7 +61,7 @@ Exception while attempting to start reader:
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Error initing Kinect SDK: 2197881471
+Error initing Kinect SDK: 2197880852
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -184,7 +201,4014 @@ Failed to load driver and middleware, review warnings above for specific excepti
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/myo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/.\libmyo
+Fallback handler could not load library C:/Users/SoCS/Desktop/HCVS_Release/HeritageCraftVirtualSimulator_Data/Mono/libmyo
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 765.
+Total: 1.294118 ms (FindLiveObjects: 0.073912 ms CreateObjectMapping: 0.020099 ms MarkObjects: 0.267770 ms  DeleteObjects: 0.034038 ms)
+
 Kinect specific comopnent started
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at JointOrientation.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponent (System.Type)
+  at UnityEngine.GameObject.GetComponent[ThalmicMyo] () [0x00000] in <filename unknown>:0 
+  at AnimatorControls.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
